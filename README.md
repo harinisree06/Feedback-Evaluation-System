@@ -45,13 +45,10 @@ Bubble Dashboard (Repeating Group)
 
 ## Live Website
 
-https://727723eucd019-17059.bubbleapps.io/version-test?debug_mode=true
+https://727723eucd019-38009.bubbleapps.io/version-test/?debug_mode=true
 
-## Demo Video
-
-https://drive.google.com/file/d/1-XxCodLBFo564EcJhKowjfb0QEUhg_Wv/view?usp=sharing
 
 ## Author
 
 Harini Sree R  
-727723eucd019@skcet.ac.in
+
